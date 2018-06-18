@@ -1,0 +1,23 @@
+{
+  "name": "headless-chromium-crawler",
+  "version": "0.1.0",
+  "description": "Crawling project based on headless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengxingqi/headless-chromium-crawler.git"
+  },
+  "keywords": [],
+  "author": "zengxingqi (https://github.com/zengxingqi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zengxingqi/headless-chromium-crawler/issues"
+  },
+  "homepage": "https://github.com/zengxingqi/headless-chromium-crawler#readme",
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  }
+}
